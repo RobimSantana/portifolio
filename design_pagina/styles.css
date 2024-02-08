@@ -1,0 +1,23 @@
+h1{ 
+    text-align: center;
+    font-family:Georgia 60px, 'Times New Roman', Times, serif
+    font-size: 25px;
+    color: rgb(225,601,195)
+}
+
+p{
+    text-align:center;
+    font-size: 20px;
+    color: rgb(223, 210, 190);
+}
+
+li{
+    text-align: center;
+    font-size: 18px;
+    list-style-type: none;
+}
+
+.special{
+    color:rgb(126, 113, 88);
+    font-weight: bold;
+}
